@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-tut",
+  "version": "1.0.0",
+  "description": "this is nodejs tutorial for begginers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon argument.js"
+  },
+  "author": "reemy",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "minimist": "^1.2.7"
+  }
+}
